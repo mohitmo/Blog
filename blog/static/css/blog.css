@@ -1,6 +1,6 @@
 h1 a, h2 a {
     color: #C25100;
-    font-family: 'Roboto_Mono';
+    font-family: 'Lobster';
 }
 body {
     padding-left: 15px;
@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Roboto_Mono', cursive;
+    font-family: 'Lobster', cursive;
 }
 
 .date {
